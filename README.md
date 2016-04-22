@@ -1,6 +1,6 @@
 # simbl-plugins
 
-downloads have been included where there isnt one available directly from the developer
+*downloads have been included where there isnt one available directly from the developer*
 
 **GlobalNoWindowIcon**
 
