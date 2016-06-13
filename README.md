@@ -2,6 +2,10 @@
 
 *downloads have been included where there isnt one available directly from the developer*
 
+**Instructions**
+
+Grab a copy of Easy SIMBL and import a plugin.
+
 --
 
 **Developer**
